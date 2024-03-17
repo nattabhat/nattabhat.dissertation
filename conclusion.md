@@ -1,4 +1,5 @@
-4.5. Propose Strategies based on the Insights and Results
+ -- Propose Strategies based on the Insights and Results --
+
 With the current situation of online retailing, retailers are facing crucial factors, such as 
 consumer budget, inflation, higher customer expectations, etc., that are challenging their stability 
 and sustainability (Perkins, 2023; Finan, 2023). The research objectives aim to understand the 
